@@ -45,6 +45,6 @@ Din instrumente de testare automata pentru fiecare tip de testare automata defin
 * Unit Testing - in depentinta de limbaj de programare, ex. Python - UnitTest (librarie standarta)
 * Integration Testing - in dependenta de limbaj/framework, ex. Python - PyTest, Robot
 * Performance/Load/Stress Testing - JMeter, K6.io
-* Security/Penetration Testing - OWASP Top-10 scanner, Kali Linux application suite
+* Security/Penetration Testing - OWASP Top-10 scanner, Kali Linux (+ associated application suite)
 * UI Testing - Selenium, Telerik, Cucumber
 * E2E Testing - Cypress, Selenium, CodeceptJS, TestCaffe
